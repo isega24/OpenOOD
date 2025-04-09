@@ -31,6 +31,7 @@ setuptools.setup(
         'Cython>=0.29.30',
         'faiss-gpu>=1.7.2',
         'gdown>=4.7.1',  # 'libmr>=0.1.9'
+        'zennit-crp[fast_img]>=0.6.0',
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
